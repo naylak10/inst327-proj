@@ -1,0 +1,4 @@
+() - finish tables and save scripts
+
+() - get data on senators
+() - get data on house members
